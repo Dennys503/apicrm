@@ -1,16 +1,18 @@
 # apicrm ()
 API usando JSON-SERVER Y React JS. CRM 
 
-# CREDITOS A Juan Pablo De la torre Valdez
+# CREDITOS A 
+Juan Pablo De la torre Valdez
 CURSO DE UDEMY "REACT LA GUIA COMPLETA"
 
 
 # ENTORNO JSON-SERVER
-# INSTALL JSON-SERVER REF (https://www.npmjs.com/package/json-server)
+# INSTALANDO JSON-SERVER REF 
+URL de referencia: https://www.npmjs.com/package/json-server)
 npm install -g json-server
-# START JSON-SERVER
+# INICIAR JSON-SERVER
 json-server --watch db.json
-# EXAMPLE OF db.json
+# EJEMPLO DE db.json
 [
 {
 "nombre": "Dennys Valenzuela",
@@ -29,7 +31,7 @@ json-server --watch db.json
 "id": 7
 }
 ]
-# EXAMPLE OF APIS
+# ESTANDAR DE ENDPOINT
 GET    /clientes
 GET    /clientes/1
 POST   /clientes
