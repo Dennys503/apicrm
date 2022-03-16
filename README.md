@@ -11,7 +11,7 @@
 - URL de referencia: https://www.npmjs.com/package/json-server)
 - npm install -g json-server
 # INICIAR JSON-SERVER
--json-server --watch db.json --port 4000
+- json-server --watch db.json --port 4000
 # EJEMPLO DE db.json
 - [
 {
