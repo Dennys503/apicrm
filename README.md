@@ -8,8 +8,8 @@ CURSO DE UDEMY "REACT LA GUIA COMPLETA"
 
 # ENTORNO JSON-SERVER
 # INSTALANDO JSON-SERVER REF 
-URL de referencia: https://www.npmjs.com/package/json-server)
-npm install -g json-server
+- URL de referencia: https://www.npmjs.com/package/json-server)
+- npm install -g json-server
 # INICIAR JSON-SERVER
 json-server --watch db.json
 # EJEMPLO DE db.json
