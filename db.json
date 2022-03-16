@@ -1,19 +1,19 @@
 {
   "clientes": [
     {
-      "nombre": "Edgar - ACTUALIZADO",
-      "empresa": "Codigo Con Juan",
-      "email": "correo@correo.com",
-      "telefono": "129918398193",
-      "notas": "El Cliente solicita un servidor",
+      "nombre": "Dennys Valenzuela",
+      "empresa": "IntroSoft Sv",
+      "email": "email@gmail.com",
+      "telefono": "0125454545454",
+      "notas": "El cliente necesita un sistema post",
       "id": 6
     },
     {
-      "nombre": "Juan",
-      "empresa": "Codigo Con Juan",
-      "email": "correo@correo.com",
-      "telefono": "9183981398139",
-      "notas": "",
+      "nombre": "Alisson Camila",
+      "empresa": "Baby Word",
+      "email": "camila@gmail.com",
+      "telefono": "5255254545",
+      "notas": "El cliente necesita bicicletas",
       "id": 7
     }
   ]
