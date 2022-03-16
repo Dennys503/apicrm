@@ -3,7 +3,7 @@
 
 # CREDITOS A 
 - Juan Pablo De la torre Valdez
-- CURSO DE UDEMY "REACT LA GUIA COMPLETA"
+- Curso de Udemy "REACT LA GUIA COMPLETA"
 
 
 # ENTORNO JSON-SERVER
