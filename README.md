@@ -1,9 +1,9 @@
 # API DE CLIENTES (CRM)
-API usando JSON-SERVER Y React JS. CRM 
+- API usando JSON-SERVER Y React JS. CRM 
 
 # CREDITOS A 
-Juan Pablo De la torre Valdez
-CURSO DE UDEMY "REACT LA GUIA COMPLETA"
+- Juan Pablo De la torre Valdez
+- CURSO DE UDEMY "REACT LA GUIA COMPLETA"
 
 
 # ENTORNO JSON-SERVER
@@ -11,9 +11,9 @@ CURSO DE UDEMY "REACT LA GUIA COMPLETA"
 - URL de referencia: https://www.npmjs.com/package/json-server)
 - npm install -g json-server
 # INICIAR JSON-SERVER
-json-server --watch db.json
+-json-server --watch db.json
 # EJEMPLO DE db.json
-[
+- [
 {
 "nombre": "Dennys Valenzuela",
 "empresa": "IntroSoft Sv",
@@ -22,7 +22,7 @@ json-server --watch db.json
 "notas": "El cliente necesita un sistema post",
 "id": 6
 },
-{
+- {
 "nombre": "Alisson Camila",
 "empresa": "Baby Word",
 "email": "camila@gmail.com",
@@ -32,16 +32,16 @@ json-server --watch db.json
 }
 ]
 # ESTANDAR DE ENDPOINT
-GET    /clientes
-GET    /clientes/1
-POST   /clientes
-PUT    /clientes/1
-PATCH  /clientes/1
-DELETE /clientes/1
+- GET    /clientes
+- GET    /clientes/1
+- POST   /clientes
+- PUT    /clientes/1
+- PATCH  /clientes/1
+- DELETE /clientes/1
 
 # ENTORNO REACT
-npm install
-npm run dev
-http://localhost:3000/clientes
+- npm install
+- npm run dev
+- http://localhost:3000/clientes
 
 
